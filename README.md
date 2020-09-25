@@ -1,2 +1,2 @@
-# Linux-commands
+# Terminal-commands
 Essential commands for linux terminal
