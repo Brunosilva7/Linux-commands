@@ -6,7 +6,8 @@
 
 OBS: To see the content, please go to issues. 
 
-- [ ] Inside of it the user will learn how to move a file or directory.             - [ ] How to catch the file and print the content. 
+- [ ] Inside of it the user will learn how to move a file or directory.  
+- [ ] How to catch the file and print the content. 
 - [ ] It'll show how to rename a file or change the location of it.
 - [ ] How to create a filter to search for something and mark it
 - [ ] How to list the content of the location which you are on terminal.
